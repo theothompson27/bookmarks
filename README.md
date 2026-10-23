@@ -1,3 +1,5 @@
+# Theo Thompson's Bookmarks
+A working list of design resources. Started from [Won J. You's bookmarks](https://github.com/wonjyou/bookmarks).
 
 **Search:**
 ===
@@ -8,7 +10,7 @@
 _____________
 
 
-**Online Communities:**
+**Community:**
 ===
 - [r/UXDesign](https://www.reddit.com/r/UXDesign/) - UX subreddit
 - [ADPList](https://adplist.org/) - Online network of mentors
@@ -24,7 +26,7 @@ _____________
 _____________
 
 
-**AI-Assisted Design:**
+**AI:**
 ===
 - [Google Stitch](https://stitch.withgoogle.com/) - AI design tool by Google
 - [Google AI Studio](https://aistudio.google.com/) - AI-first app development with built-in features like Nano Banana and Google Search
@@ -41,7 +43,7 @@ _____________
 
 
 
-**Front-End Development:**
+**Front-End:**
 ===
 - Important must-read of things to understand in front-end dev: [css resets, responsive media queries, viewport meta tag, box model, container/columns/rows best practices, clearfix](http://www.adamkaplan.me/grid/)
 - Front-End Frameworks:
@@ -76,7 +78,7 @@ _____________
 _____________
 
 
-**Sharing/Feedback:**
+**Feedback:**
 ===
 - [DropBox](https://www.dropbox.com/) - store/sync your files/document on the cloud 
 - [WeTransfer](https://www.wetransfer.com/) - easily send large files to anyone
@@ -105,7 +107,7 @@ _____________
 
 
 
-**Chrome Extensions:**
+**Extensions:**
 ===
 - [Muzli](https://muz.li/) - Chrome extension for design inspiration
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) - clean, collapsible JSON viewer
@@ -119,7 +121,7 @@ _____________
 _____________
 
 
-**Patterns & Pattern Libraries:**
+**Patterns:**
 ===
 - [Mobbin](https://mobbin.com/) - the largest and best library of mobile and web UI patterns
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - seamless background patterns
@@ -134,7 +136,7 @@ _____________
 
 
 
-**Native Mobile Design:**
+**Mobile:**
 ===
 - [Android Design guidelines](https://developer.android.com/design)
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
@@ -176,7 +178,7 @@ _____________
 
 
 
-**Colors:**
+**Color:**
 ===
 - [Coolors](https://coolors.co/) - fast color palette generator with contrast checker
 - [Adobe Color](https://color.adobe.com/) - color wheel, palette explorer, and trend library
@@ -191,7 +193,7 @@ _____________
 _____________
 
 
-**Branding:**
+**Brand:**
 ===
 - [Style Tiles](http://styletil.es/)
 - [Webstiles](http://webstiles.namanyayg.com/) - web style tiles
@@ -199,7 +201,7 @@ _____________
 _____________
 
 
-**Design Systems & Components:**
+**Design Systems:**
 ===
 - [Tailwind CSS](https://tailwindcss.com/) - utility-first CSS framework powering most modern design systems
 - [shadcn/ui](https://ui.shadcn.com/) - copy-paste components built on Radix UI and Tailwind
@@ -214,7 +216,7 @@ _____________
 _____________
 
 
-**Motion & Interaction Design:**
+**Motion & Interactive Design:**
 ===
 - [Rive](https://rive.app/) - real-time interactive animations for apps, games, and the web
 - [LottieFiles](https://lottiefiles.com/) - lightweight JSON animation format for web and mobile
@@ -226,7 +228,7 @@ _____________
 _____________
 
 
-**Images:**
+**Imagery:**
 ===
 - [Squoosh](https://squoosh.app/) - browser-based image compression by Google
 - [TinyPNG](https://tinypng.com/) - compress PNG and JPEG without visible quality loss
@@ -260,7 +262,7 @@ _____________
 
 
 
-**References & Cheat Sheets:**
+**References:**
 ===
 - [All API Cheat Sheets](https://overapi.com/)
 - [jQuery Quick API Reference](http://oscarotero.com/jquery/)
@@ -276,7 +278,7 @@ _____________
 _____________
 
 
-**Responsiveness:**
+**Responsive:**
 ===
 - [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
 - [FitText.js](http://fittextjs.com/)
@@ -287,7 +289,7 @@ _____________
 _____________
 
 
-**Validation/Code Cleaner:**
+**Code Hygiene:**
 ===
 - [HTML Markup Validation (W3)](https://validator.w3.org/)
 - [CSS Validation (W3)](https://jigsaw.w3.org/css-validator/)
@@ -349,7 +351,7 @@ _____________
 _____________
 
 
-**Stock Photography:**
+**Stock Images:**
 ===
 - [Unsplash](https://unsplash.com/) - free stock photos
 - [Pexels](https://www.pexels.com/) - free stock photos and videos
@@ -366,7 +368,7 @@ _____________
 _____________
 
 
-**UX Research & Testing:**
+**Research:**
 ===
 - [Maze](https://maze.co/) - rapid usability testing and prototype validation
 - [Dovetail](https://dovetailapp.com/) - qualitative research repository and analysis platform
@@ -377,7 +379,7 @@ _____________
 
 _____________
 
-**Resources/Freebies:**
+**Resources:**
 ===
 - [Canva](https://www.canva.com/) - easy to use design templates for just about anything
 - [Designmodo](https://designmodo.com/freebies/) - UI components and design freebies
@@ -390,5 +392,3 @@ _____________
 - [52 Weeks of UX](http://52weeksofux.com/)
 
 _____________
-
-_Last audited: March 2026 — Removed 22 dead or deprecated links (including InVision shutdown Dec 2024, Adobe Edge Fonts discontinuation, broken mobile pattern sites). Updated 12 URLs to canonical destinations (Adobe Fonts, Adobe Color, Google Fonts, Font Awesome, Animate.css, Foundation, Apple HIG, and others). Added 55 new resources across 4 new sections (AI-Assisted Design, Design Systems & Components, Motion & Interaction Design, UX Research & Testing) and expanded 12 existing sections with modern tools including Tailwind CSS, shadcn/ui, Figma, v0, Rive, Coolors, Lucide, Phosphor, Heroicons, Pexels, and more._
