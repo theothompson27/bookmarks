@@ -26,6 +26,18 @@ _____________
 _____________
 
 
+**Inspiration:**
+===
+- [Muzli](https://muz.li/) - design inspiration hub
+- [Awwwards](https://www.awwwards.com/) - showcase of awarded website design
+- [Visuelle](https://visuelle.co.uk/) - catalog of studios, branding, and design projects
+- [Abduzeedo](https://abduzeedo.com/) - design, photography, and interface inspiration
+- [Design Milk](https://design-milk.com/) - modern design, architecture, and interiors
+- [Eye](https://www.eyemagazine.com/) - graphic design journal
+
+_____________
+
+
 **AI:**
 ===
 - [Google Stitch](https://stitch.withgoogle.com/) - AI design tool by Google
@@ -44,6 +56,22 @@ _____________
 - [Gemini](https://gemini.google.com/) - Google's conversational AI
 - [Midjourney](https://midjourney.com/) - AI image generation from text prompts
 - [Higgsfield](https://higgsfield.ai/) - AI video and image generation
+- [Adobe Firefly](https://www.adobe.com/products/firefly.html) - generative image and design tools from Adobe
+- [Recraft](https://www.recraft.ai/) - image, vector, and style generation for design teams
+
+_____________
+
+
+**AI Skills & MCPs:**
+===
+- [21st.dev](https://21st.dev/) - AI-ready React and Tailwind component registry
+- [21st MCP](https://21st.dev/mcp) - MCP for the 21st registry, formerly Magic MCP
+- [Impeccable](https://impeccable.style/) - design skill for AI coding agents ([GitHub](https://github.com/pbakaus/impeccable))
+- [comfyui-gen-mcp](https://github.com/lugia19/comfyui-gen-mcp) - MCP that runs ComfyUI image generation
+- [frontend-design skill](https://github.com/anthropics/skills/tree/main/skills/frontend-design) - Anthropic's official skill for stronger UI from coding agents
+- [Figma MCP server](https://help.figma.com/hc/en-us/articles/39216419318551-Get-started-with-the-Figma-MCP-server) - read and write Figma files from an AI agent
+- [shadcn MCP](https://ui.shadcn.com/docs/mcp) - browse and install registry components from an assistant
+- [Playwright MCP](https://github.com/microsoft/playwright-mcp) - browser automation for visual checks and QA
 
 _____________
 
@@ -101,6 +129,22 @@ _____________
 _____________
 
 
+**Creative Ops:**
+===
+- [Asana](https://asana.com/) - project tracking for campaigns and production
+- [Monday.com](https://monday.com/) - visual boards for creative workflows
+- [Airtable](https://www.airtable.com/) - structured trackers for requests, assets, and status
+- [Notion](https://www.notion.com/) - docs, wikis, and lightweight project hubs
+- [Frame.io](https://frame.io/) - review and approval for video and creative files
+- [Ziflow](https://www.ziflow.com/) - online proofing for reviews and approvals
+- [Filestage](https://filestage.io/) - online proofing for creative approvals
+- [Bynder](https://www.bynder.com/) - digital asset management and brand portals
+- [Brandfolder](https://brandfolder.com/) - digital asset management for brand files
+- [Canto](https://www.canto.com/) - digital asset management for creative libraries
+
+_____________
+
+
 
 **Analytics:**
 ===
@@ -133,7 +177,6 @@ _____________
 ===
 - [Mobbin](https://mobbin.com/) - the largest and best library of mobile and web UI patterns
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - seamless background patterns
-- [UX Archive](http://uxarchive.com/) - documented flows from top apps
 - [Pttrns](https://www.pttrns.com/) - mobile UI pattern gallery
 - [Page Flows](https://pageflows.com/) - real user flows from real products
 - [Scrnshts](https://scrnshts.club/) - curated app store screenshot gallery
@@ -172,6 +215,19 @@ _____________
 _____________
 
 
+**Decks:**
+===
+- [Google Slides](https://workspace.google.com/products/slides/) - presentations in Google Workspace
+- [Pitch](https://pitch.com/) - presentation workspace for teams
+- [Gamma](https://gamma.app/) - online presentation maker
+- [Figma Slides](https://www.figma.com/slides/) - presentations built in Figma
+- [Beautiful.ai](https://www.beautiful.ai/) - AI presentation software for teams
+- [Keynote](https://www.apple.com/keynote/) - Apple's presentation app
+- [Canva Presentations](https://www.canva.com/presentations/) - presentations and pitch decks in Canva
+
+_____________
+
+
 **Typography:**
 ===
 - [Adobe Fonts](https://fonts.adobe.com/) - formerly Typekit, included with Creative Cloud
@@ -182,6 +238,10 @@ _____________
 - [v-fonts](https://v-fonts.com/) - comprehensive variable fonts guide and browser
 - [Utopia](https://utopia.fyi/) - fluid type scale generator for responsive typography
 - [Cloud Typography](https://www.typography.com/webfonts) - professional web font hosting
+- [Practical Typography](https://practicaltypography.com/) - Butterick's practical guide to setting type
+- [Klim Type Foundry](https://klim.co.nz/) - independent type foundry
+- [Commercial Type](https://commercialtype.com/) - type foundry for editorial and brand work
+- [Fontshare](https://www.fontshare.com/) - free, high-quality fonts
 _____________
 
 
@@ -228,6 +288,9 @@ _____________
 - [Storybook](https://storybook.js.org/) - UI component workshop for building and documenting components
 - [Zeroheight](https://zeroheight.com/) - publish and maintain design system documentation
 - [Supernova](https://www.supernova.io/) - sync design tokens from Figma and generate code
+- [NASA Brand Center](https://www.nasa.gov/nasa-brand-center/) - official NASA brand guidelines
+- [Dropbox Brand Guidelines](https://brand.dropbox.com/) - public Dropbox brand guidelines
+- [Uber Brand](https://brand.uber.com/) - Uber brand portal
 
 _____________
 
@@ -251,6 +314,7 @@ _____________
 - [Pic Resize](https://picresize.com/)
 - [Remove.bg](https://www.remove.bg/) - AI-powered background removal
 - [Cleanup.pictures](https://cleanup.pictures/) - remove objects, people, or text from photos with AI
+- [Photopea](https://www.photopea.com/) - free browser-based photo editor
 
 _____________
 
@@ -261,6 +325,8 @@ _____________
 - [Logo Lounge](https://logolounge.com/)
 - [Logopond](https://logopond.com/)
 - [Logobook](https://logobook.com/) - curated logo design inspiration
+- [Pentagram](https://www.pentagram.com/) - identity and brand work from an independent design studio
+- [Wolff Olins](https://www.wolffolins.com/) - global brand consultancy and identity work
 
 
 _____________
@@ -270,8 +336,10 @@ _____________
 **Wireframes:**
 ===
 - [I ♥ Wireframes](https://wireframes.tumblr.com/)
-- [Wireframe Showcase](https://wireframeshowcase.com/)
 - [Excalidraw](https://excalidraw.com/) - virtual whiteboard for sketching hand-drawn diagrams
+- [Whimsical](https://whimsical.com/) - whiteboard for flows and wireframes
+- [FigJam](https://www.figma.com/figjam/) - collaborative whiteboard for teams
+- [Balsamiq](https://balsamiq.com/) - fast, low-fidelity wireframes
 
 
 _____________
@@ -293,6 +361,15 @@ _____________
 _____________
 
 
+**Design Principles:**
+===
+- [Mockiro Archive](https://www.mockiro.com/archive) - archive of a newsletter for designers
+- [Laws of UX](https://lawsofux.com/) - psychology principles for interface design
+- [Good Design](https://www.vitsoe.com/us/about/good-design) - Dieter Rams's ten principles of good design
+
+_____________
+
+
 **Learning:**
 ===
 - [Treehouse](https://teamtreehouse.com/)
@@ -305,7 +382,17 @@ _____________
 - [DesignCourse](https://www.youtube.com/@DesignCourse) - YouTube channel for UI/UX and front-end
 - [52 Weeks of UX](https://52weeksofux.com/)
 - [Hack Design](https://hackdesign.org/lessons)
+- [Design Better Podcast](https://designbetterpodcast.com/) - podcast on the craft and career of design
 
+
+_____________
+
+
+**Career:**
+===
+- [2026 Salary Guide](https://www.24seventalent.com/insights/2026-salary-guide/) - pay data for creative, marketing, and related roles
+- [SketchDeck](https://sketchdeck.com/) - on-demand design production and design management
+- [24 Seven Jobs](https://www.24seventalent.com/jobs/) - creative and digital marketing roles
 
 _____________
 
@@ -329,6 +416,7 @@ _____________
 - [Favicon Generator - realfavicongenerator.net](https://realfavicongenerator.net/)
 - [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
 - [Favicon.io - generate favicons from text, image, or emoji](https://favicon.io/)
+- [Visualize Value](https://visualizevalue.com/) - ideas made visible, including wallpapers and essays
 
 
 _____________
