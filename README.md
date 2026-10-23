@@ -6,6 +6,8 @@ A working list of design resources. Started from [Won J. You's bookmarks](https:
 - [Google](https://www.google.com/)
 - [StackOverflow - coding questions](https://stackoverflow.com/)
 - [Perplexity AI - AI-powered search for technical and design questions](https://www.perplexity.ai/)
+- [vidIQ - YouTube keyword and channel research](https://vidiq.com/)
+- [AnswerThePublic - search questions and keyword research](https://answerthepublic.com/)
 
 _____________
 
