@@ -184,6 +184,7 @@ _____________
 ===
 - [Zeroheight](https://zeroheight.com/) - publish and maintain design system documentation
 - [Supernova](https://www.supernova.io/) - sync design tokens from Figma and generate code
+- [Tailwind CSS](https://tailwindcss.com/) - utility-first CSS framework with a solid default type, color and spacing scale
 - [NASA Brand Center](https://www.nasa.gov/nasa-brand-center/) - official NASA brand guidelines
 - [Dropbox Brand Guidelines](https://brand.dropbox.com/) - public Dropbox brand guidelines
 - [Uber Brand](https://brand.uber.com/) - Uber brand portal
@@ -196,6 +197,7 @@ _____________
 - [Rive](https://rive.app/) - real-time interactive animations for apps, games, and the web
 - [LottieFiles](https://lottiefiles.com/) - lightweight JSON animation format for web and mobile
 - [Jitter](https://jitter.video/) - browser-based motion design for UI and social content
+- [GSAP](https://gsap.com/) - JavaScript animation library behind a lot of award-winning web motion
 
 _____________
 
