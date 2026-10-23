@@ -13,12 +13,12 @@ _____________
 
 **Community:**
 ===
-- [ADPList](https://adplist.org/) - Online network of mentors
-- [Design Slack Communities](https://www.designerslack.community/) - Join one of many online Slack communities just for designers and professionals
-- [Pinterest](https://pinterest.com) - great for moodboards and inspo
-- [Dribbble](https://dribbble.com/) - design trends for product design and web
-- [Behance](https://www.behance.net/) - design trends for branding and design outside of product
-- [Figma Community](https://www.figma.com/community) - free files, templates, and plugins
+- [ADPList](https://adplist.org/) - office hours with people doing the work
+- [Design Slack Communities](https://www.designerslack.community/) - group chats for designers and producers
+- [Pinterest](https://pinterest.com) - moodboards before anyone opens a deck
+- [Dribbble](https://dribbble.com/) - single frames, mostly interface and web
+- [Behance](https://www.behance.net/) - fuller projects, brand and campaign work
+- [Figma Community](https://www.figma.com/community) - files and plugins other people published
 
 _____________
 
@@ -37,16 +37,16 @@ _____________
 
 **AI:**
 ===
-- [Google Stitch](https://stitch.withgoogle.com/) - AI design tool by Google
-- [Google AI Studio](https://aistudio.google.com/) - AI-first app development with built-in features like Nano Banana and Google Search
-- [Figma Make](https://www.figma.com/ai/) - AI that generates UI from text prompts inside your Figma file
-- [v0 by Vercel](https://v0.dev/) - generate production-ready React/Tailwind UI from a prompt
-- [Bolt.new](https://bolt.new/) - build and deploy full-stack apps from a text prompt
-- [Lovable](https://lovable.dev/) - generate full-stack apps through conversational prompts
-- [Magic Patterns](https://www.magicpatterns.com/) - generate UI component variants for your design system
-- [Uizard](https://uizard.io/) - rapid wireframe and mockup generation from text or sketches
-- [UXPilot](https://uxpilot.ai/) - AI-powered wireframes and high-fidelity UI generation
-- [Galileo AI](https://www.usegalileo.ai/) - text-to-UI design for mobile and web
+- [Google Stitch](https://stitch.withgoogle.com/) - Google's prompt tool for interface
+- [Google AI Studio](https://aistudio.google.com/) - a bench for trying Google's models
+- [Figma Make](https://www.figma.com/ai/) - prompt a layout into the Figma file
+- [v0 by Vercel](https://v0.dev/) - a prompt that comes back as React
+- [Bolt.new](https://bolt.new/) - describe an app, then deploy it
+- [Lovable](https://lovable.dev/) - a conversation that builds the app
+- [Magic Patterns](https://www.magicpatterns.com/) - UI options generated for a system
+- [Uizard](https://uizard.io/) - mockups from a sentence or a sketch
+- [UXPilot](https://uxpilot.ai/) - wireframes and screens from a prompt
+- [Galileo AI](https://www.usegalileo.ai/) - interface layouts from a text prompt
 - [Grok Bots](https://docs.x.ai/grok-bot/overview) - AI teammates that take on work in your tools
 - [Claude](https://claude.ai/) - Anthropic's conversational AI
 - [ChatGPT](https://chatgpt.com/) - OpenAI's conversational AI
@@ -75,10 +75,10 @@ _____________
 
 **Feedback:**
 ===
-- [DropBox](https://www.dropbox.com/) - store/sync your files/document on the cloud
-- [WeTransfer](https://www.wetransfer.com/) - easily send large files to anyone
-- [Loom](https://www.loom.com/) - async screen recording with shareable links
-- [ScreenToGif](https://www.screentogif.com/) - screen, webcam, and sketch recorder
+- [DropBox](https://www.dropbox.com/) - cloud storage for the working files
+- [WeTransfer](https://www.wetransfer.com/) - send a large file without a login
+- [Loom](https://www.loom.com/) - record the screen and share a link
+- [ScreenToGif](https://www.screentogif.com/) - record the screen as a gif
 
 _____________
 
@@ -101,8 +101,7 @@ _____________
 
 **Extensions:**
 ===
-- [Muzli](https://muz.li/) - Chrome extension for design inspiration
-- [Panda Design Inspiration](https://chrome.google.com/webstore/detail/panda-hacker-news-dribbbl/jhiocdmmaannaccoofjfmjpbfkogmnap)
+- [Muzli](https://muz.li/) - a new tab full of design work
 - [WhatFont - identify any font used on a webpage](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 
 _____________
@@ -110,9 +109,9 @@ _____________
 
 **Prototyping:**
 ===
-- [Figma](https://www.figma.com/) - industry-standard design, prototyping, and collaboration
-- [Framer](https://www.framer.com/) - design and publish responsive sites with advanced interactions
-- [Penpot](https://penpot.app/) - open-source design and prototyping tool
+- [Figma](https://www.figma.com/) - the file the rest of the team is in
+- [Framer](https://www.framer.com/) - design the site and put it live
+- [Penpot](https://penpot.app/) - design and prototype in an open file
 
 _____________
 
@@ -133,14 +132,14 @@ _____________
 
 **Typography:**
 ===
-- [Adobe Fonts](https://fonts.adobe.com/) - formerly Typekit, included with Creative Cloud
-- [Google Fonts](https://fonts.google.com/) - free web fonts
-- [Fonts In Use](https://fontsinuse.com/) - real-world typography examples from print, screen, and environment
-- [Typewolf](https://www.typewolf.com/) - font inspiration, recommendations, and font of the day
-- [Fontpair](https://www.fontpair.co/) - curated Google Fonts pairing suggestions
-- [v-fonts](https://v-fonts.com/) - comprehensive variable fonts guide and browser
-- [Utopia](https://utopia.fyi/) - fluid type scale generator for responsive typography
-- [Cloud Typography](https://www.typography.com/webfonts) - professional web font hosting
+- [Adobe Fonts](https://fonts.adobe.com/) - type that comes with Creative Cloud
+- [Google Fonts](https://fonts.google.com/) - free faces you can use on the web
+- [Fonts In Use](https://fontsinuse.com/) - type as it actually got printed
+- [Typewolf](https://www.typewolf.com/) - a second opinion on what to set
+- [Fontpair](https://www.fontpair.co/) - which two free faces can share a line
+- [v-fonts](https://v-fonts.com/) - faces that widen, weight, and shift
+- [Utopia](https://utopia.fyi/) - type scales that flex with the screen
+- [Cloud Typography](https://www.typography.com/webfonts) - foundry web fonts, hosted for production
 - [Practical Typography](https://practicaltypography.com/) - Butterick's practical guide to setting type
 - [Klim Type Foundry](https://klim.co.nz/) - independent type foundry
 - [Commercial Type](https://commercialtype.com/) - type foundry for editorial and brand work
@@ -151,14 +150,14 @@ _____________
 
 **Color:**
 ===
-- [Coolors](https://coolors.co/) - fast color palette generator with contrast checker
-- [Adobe Color](https://color.adobe.com/) - color wheel, palette explorer, and trend library
-- [Colour Lovers](https://www.colourlovers.com/) - color trends and community palettes
-- [My Mind Color Palettes](https://access.mymind.com/colors) - curated color palettes by Van Schneider
-- [Radix UI Colors](https://www.radix-ui.com/colors) - accessible, tested color palettes for design systems
-- [Accessible Palette](https://accessiblepalette.com/) - build color systems with predictable WCAG contrast
-- [Huemint](https://huemint.com/) - AI color palette generator for brands, UI, and illustrations
-- [Reasonable Colors](https://reasonable.work/colors/) - open-source accessible color system
+- [Coolors](https://coolors.co/) - five swatches and a legibility check
+- [Adobe Color](https://color.adobe.com/) - mix, save, and name a palette
+- [Colour Lovers](https://www.colourlovers.com/) - an old crowd still trading swatches
+- [My Mind Color Palettes](https://access.mymind.com/colors) - Van Schneider's personal color library
+- [Radix UI Colors](https://www.radix-ui.com/colors) - stepped color, checked before you ship
+- [Accessible Palette](https://accessiblepalette.com/) - color ramps that hold a contrast ratio
+- [Huemint](https://huemint.com/) - generated palettes for brand and screen
+- [Reasonable Colors](https://reasonable.work/colors/) - ramps made so text stays readable
 - [Color Contrast Checker](https://coolors.co/contrast-checker)
 
 _____________
@@ -182,9 +181,9 @@ _____________
 
 **Design Systems:**
 ===
-- [Zeroheight](https://zeroheight.com/) - publish and maintain design system documentation
-- [Supernova](https://www.supernova.io/) - sync design tokens from Figma and generate code
-- [Tailwind CSS](https://tailwindcss.com/) - utility-first CSS framework with a solid default type, color and spacing scale
+- [Zeroheight](https://zeroheight.com/) - the handbook, once the system exists
+- [Supernova](https://www.supernova.io/) - design decisions exported for the build
+- [Tailwind CSS](https://tailwindcss.com/) - type, color, and spacing decided up front
 - [NASA Brand Center](https://www.nasa.gov/nasa-brand-center/) - official NASA brand guidelines
 - [Dropbox Brand Guidelines](https://brand.dropbox.com/) - public Dropbox brand guidelines
 - [Uber Brand](https://brand.uber.com/) - Uber brand portal
@@ -194,9 +193,9 @@ _____________
 
 **Motion & Interactive Design:**
 ===
-- [Rive](https://rive.app/) - real-time interactive animations for apps, games, and the web
-- [LottieFiles](https://lottiefiles.com/) - lightweight JSON animation format for web and mobile
-- [Jitter](https://jitter.video/) - browser-based motion design for UI and social content
+- [Rive](https://rive.app/) - motion you can run inside the product
+- [LottieFiles](https://lottiefiles.com/) - compact motion files for web and app
+- [Jitter](https://jitter.video/) - motion graphics without a desktop app
 - [GSAP](https://gsap.com/) - JavaScript animation library behind a lot of award-winning web motion
 
 _____________
@@ -204,14 +203,14 @@ _____________
 
 **Imagery:**
 ===
-- [Squoosh](https://squoosh.app/) - browser-based image compression by Google
-- [TinyPNG](https://tinypng.com/) - compress PNG and JPEG without visible quality loss
-- [Remove.bg](https://www.remove.bg/) - AI-powered background removal
-- [Cleanup.pictures](https://cleanup.pictures/) - remove objects, people, or text from photos with AI
+- [Squoosh](https://squoosh.app/) - shrink an image in the browser
+- [TinyPNG](https://tinypng.com/) - lighter PNGs and JPEGs, same picture
+- [Remove.bg](https://www.remove.bg/) - cut the subject out of a photo
+- [Cleanup.pictures](https://cleanup.pictures/) - remove an object and fill the gap
 - [Photopea](https://www.photopea.com/) - free browser-based photo editor
-- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - seamless background patterns
-- [PlaceIt](https://placeit.net/) - real-life image templates to insert mobile screens
-- [Rotato](https://rotato.app/) - 3D device mockups and screen recordings
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - repeating backgrounds that stay quiet
+- [PlaceIt](https://placeit.net/) - put a screen into a photographed scene
+- [Rotato](https://rotato.app/) - spin a screen inside a piece of hardware
 
 _____________
 
@@ -220,7 +219,7 @@ _____________
 ===
 - [Logo Lounge](https://logolounge.com/)
 - [Logopond](https://logopond.com/)
-- [Logobook](https://logobook.com/) - curated logo design inspiration
+- [Logobook](https://logobook.com/) - a small shelf of logo work
 - [Pentagram](https://www.pentagram.com/) - identity and brand work from an independent design studio
 - [Wolff Olins](https://www.wolffolins.com/) - global brand consultancy and identity work
 
@@ -229,7 +228,7 @@ _____________
 
 **Wireframes:**
 ===
-- [Excalidraw](https://excalidraw.com/) - virtual whiteboard for sketching hand-drawn diagrams
+- [Excalidraw](https://excalidraw.com/) - a whiteboard that keeps the pencil
 - [Whimsical](https://whimsical.com/) - whiteboard for flows and wireframes
 - [FigJam](https://www.figma.com/figjam/) - collaborative whiteboard for teams
 - [Balsamiq](https://balsamiq.com/) - fast, low-fidelity wireframes
@@ -273,12 +272,12 @@ _____________
 - [IcoMoon](https://icomoon.io/)
 - [Fontello](https://fontello.com/)
 - [Font Awesome](https://fontawesome.com/)
-- [Lucide](https://lucide.dev/) - beautiful, consistent open-source icons
-- [Phosphor Icons](https://phosphoricons.com/) - flexible icon family with six weights including duotone
-- [Heroicons](https://heroicons.com/) - hand-crafted SVG icons by the Tailwind CSS team
-- [Tabler Icons](https://tabler.io/icons) - 5000+ free open-source SVG icons
-- [Feather Icons](https://feathericons.com/) - simply beautiful open-source icons
-- [Icônes](https://icones.js.org/) - fast browser across multiple open-source icon sets
+- [Lucide](https://lucide.dev/) - line icons with one even stroke
+- [Phosphor Icons](https://phosphoricons.com/) - the same symbol, redrawn at every weight
+- [Heroicons](https://heroicons.com/) - interface icons drawn for Tailwind
+- [Tabler Icons](https://tabler.io/icons) - a wide free set of interface icons
+- [Feather Icons](https://feathericons.com/) - spare line icons, nothing decorative
+- [Icônes](https://icones.js.org/) - hunt an icon without opening five sites
 - [Favicon Generator - realfavicongenerator.net](https://realfavicongenerator.net/)
 - [Favicon.io - generate favicons from text, image, or emoji](https://favicon.io/)
 - [Visualize Value](https://visualizevalue.com/) - ideas made visible, including wallpapers and essays
@@ -288,23 +287,23 @@ _____________
 
 **Stock Images:**
 ===
-- [Unsplash](https://unsplash.com/) - free stock photos
-- [Pexels](https://www.pexels.com/) - free stock photos and videos
-- [Pixabay](https://pixabay.com/) - free images, videos, illustrations, and vectors
+- [Unsplash](https://unsplash.com/) - free photographs, widely used
+- [Pexels](https://www.pexels.com/) - free photographs and video clips
+- [Pixabay](https://pixabay.com/) - a mixed drawer of pictures and drawings
 - [Public Domain Archive](https://publicdomainarchive.com/)
 - [PicJumbo](https://picjumbo.com/)
 - [Getty Images](https://www.gettyimages.com/)
-- [Lummis](https://www.lummi.ai/) - high-quality AI-generated and human-curated free stock photo
+- [Lummis](https://www.lummi.ai/) - pictures from cameras and from models
 
 _____________
 
 
 **Resources:**
 ===
-- [Canva](https://www.canva.com/) - easy to use design templates for just about anything
-- [Freebbble](https://freebbble.com/) - Dribbble design freebies
-- [Freepik](https://www.freepik.com/) - free vectors, mockups, illustrations, and PSDs
-- [Lipsum](https://lipsum.com/) - placeholder text generator
+- [Canva](https://www.canva.com/) - templates when the work is not a system
+- [Freebbble](https://freebbble.com/) - free design files from Dribbble posts
+- [Freepik](https://www.freepik.com/) - artwork and mockups ready to download
+- [Lipsum](https://lipsum.com/) - filler text for when copy is late
 - [Hack Design](https://hackdesign.org/lessons)
 
 _____________
