@@ -226,6 +226,7 @@ _____________
 - [Beautiful.ai](https://www.beautiful.ai/) - AI presentation software for teams
 - [Keynote](https://www.apple.com/keynote/) - Apple's presentation app
 - [Canva Presentations](https://www.canva.com/presentations/) - presentations and pitch decks in Canva
+- [Standards](https://standards.site/) - build and present brand guidelines
 
 _____________
 
@@ -272,6 +273,7 @@ _____________
 - [Logo Archive](https://www.logo-archive.org/) - curated historical logos
 - [Frontify](https://www.frontify.com/) - living brand guidelines and shared assets
 - [Brandpad](https://brandpad.io/) - online brand guidelines and toolkits
+- [Standards](https://standards.site/) - build and present brand guidelines
 - [Fonts In Use](https://fontsinuse.com/) - type in real identities, packaging, and environments
 - [BP&O](https://bpando.org/) - branding, packaging, and opinion
 - [The Dieline](https://thedieline.com/) - packaging design news and case studies
