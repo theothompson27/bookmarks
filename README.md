@@ -38,6 +38,12 @@ _____________
 - [Uizard](https://uizard.io/) - rapid wireframe and mockup generation from text or sketches
 - [UXPilot](https://uxpilot.ai/) - AI-powered wireframes and high-fidelity UI generation
 - [Galileo AI](https://www.usegalileo.ai/) - text-to-UI design for mobile and web
+- [Grok Bots](https://docs.x.ai/grok-bot/overview) - AI teammates that take on work in your tools
+- [Claude](https://claude.ai/) - Anthropic's conversational AI
+- [ChatGPT](https://chatgpt.com/) - OpenAI's conversational AI
+- [Gemini](https://gemini.google.com/) - Google's conversational AI
+- [Midjourney](https://midjourney.com/) - AI image generation from text prompts
+- [Higgsfield](https://higgsfield.ai/) - AI video and image generation
 
 _____________
 
@@ -45,7 +51,7 @@ _____________
 
 **Front-End:**
 ===
-- Important must-read of things to understand in front-end dev: [css resets, responsive media queries, viewport meta tag, box model, container/columns/rows best practices, clearfix](http://www.adamkaplan.me/grid/)
+- Important must-read of things to understand in front-end dev: [css resets, responsive media queries, viewport meta tag, box model, container/columns/rows best practices, clearfix](https://adamkaplan.me/grid/)
 - Front-End Frameworks:
      - [Tailwind CSS](https://tailwindcss.com/) - utility-first CSS framework
      - [shadcn/ui](https://ui.shadcn.com/) - accessible components built with Radix UI and Tailwind
@@ -69,6 +75,8 @@ _____________
      - [Squoosh](https://squoosh.app/) - browser-based image compression by Google
      - [Can I Use](https://caniuse.com/) - browser support tables for CSS, HTML, and JS
      - [Builtwith](https://builtwith.com/) - find out what tools any website is built with
+     - [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
+     - [Utopia](https://utopia.fyi/) - fluid responsive type and space scale generator
 
 
 - Web Development Guides:
@@ -84,7 +92,7 @@ _____________
 - [WeTransfer](https://www.wetransfer.com/) - easily send large files to anyone
 - [CodePen](https://codepen.io/) - explore and share code experiments
 - [JSFiddle](https://jsfiddle.net/) - easy way to run shareable code snippets
-- [LiceCap](http://www.cockos.com/licecap/) - record screen activity as GIF
+- [LiceCap](https://www.cockos.com/licecap/) - record screen activity as GIF
 - [Loom](https://www.loom.com/) - async screen recording with shareable links
 - [ScreenToGif](https://www.screentogif.com/) - screen, webcam, and sketch recorder
 
@@ -173,7 +181,7 @@ _____________
 - [Fontpair](https://www.fontpair.co/) - curated Google Fonts pairing suggestions
 - [v-fonts](https://v-fonts.com/) - comprehensive variable fonts guide and browser
 - [Utopia](https://utopia.fyi/) - fluid type scale generator for responsive typography
-- [Cloud Typography](http://www.typography.com/cloud/welcome/) - professional web font hosting
+- [Cloud Typography](https://www.typography.com/webfonts) - professional web font hosting
 _____________
 
 
@@ -182,7 +190,7 @@ _____________
 ===
 - [Coolors](https://coolors.co/) - fast color palette generator with contrast checker
 - [Adobe Color](https://color.adobe.com/) - color wheel, palette explorer, and trend library
-- [Colour Lovers](http://www.colourlovers.com/) - color trends and community palettes
+- [Colour Lovers](https://www.colourlovers.com/) - color trends and community palettes
 - [My Mind Color Palettes](https://access.mymind.com/colors) - curated color palettes by Van Schneider
 - [Radix UI Colors](https://www.radix-ui.com/colors) - accessible, tested color palettes for design systems
 - [Accessible Palette](https://accessiblepalette.com/) - build color systems with predictable WCAG contrast
@@ -195,8 +203,16 @@ _____________
 
 **Brand:**
 ===
-- [Style Tiles](http://styletil.es/)
-- [Webstiles](http://webstiles.namanyayg.com/) - web style tiles
+- [Style Tiles](https://styletil.es/)
+- [Webstiles](https://nmn.gl/webstiles) - web style tiles
+- [Brand New](https://www.underconsideration.com/brandnew/) - opinions on logos, identity, and branding
+- [Standards Manual](https://standardsmanual.com/) - reprints of classic identity standards
+- [Logo Archive](https://www.logo-archive.org/) - curated historical logos
+- [Frontify](https://www.frontify.com/) - living brand guidelines and shared assets
+- [Brandpad](https://brandpad.io/) - online brand guidelines and toolkits
+- [Fonts In Use](https://fontsinuse.com/) - type in real identities, packaging, and environments
+- [BP&O](https://bpando.org/) - branding, packaging, and opinion
+- [The Dieline](https://thedieline.com/) - packaging design news and case studies
 
 _____________
 
@@ -232,7 +248,7 @@ _____________
 ===
 - [Squoosh](https://squoosh.app/) - browser-based image compression by Google
 - [TinyPNG](https://tinypng.com/) - compress PNG and JPEG without visible quality loss
-- [Pic Resize](http://www.picresize.com/)
+- [Pic Resize](https://picresize.com/)
 - [Remove.bg](https://www.remove.bg/) - AI-powered background removal
 - [Cleanup.pictures](https://cleanup.pictures/) - remove objects, people, or text from photos with AI
 
@@ -244,7 +260,7 @@ _____________
 ===
 - [Logo Lounge](https://logolounge.com/)
 - [Logopond](https://logopond.com/)
-- [Logobook](http://www.logobook.com/) - curated logo design inspiration
+- [Logobook](https://logobook.com/) - curated logo design inspiration
 
 
 _____________
@@ -253,8 +269,8 @@ _____________
 
 **Wireframes:**
 ===
-- [I ♥ Wireframes](http://wireframes.tumblr.com/)
-- [Wireframe Showcase](http://www.wireframeshowcase.com/)
+- [I ♥ Wireframes](https://wireframes.tumblr.com/)
+- [Wireframe Showcase](https://wireframeshowcase.com/)
 - [Excalidraw](https://excalidraw.com/) - virtual whiteboard for sketching hand-drawn diagrams
 
 
@@ -265,7 +281,6 @@ _____________
 **References:**
 ===
 - [All API Cheat Sheets](https://overapi.com/)
-- [jQuery Quick API Reference](http://oscarotero.com/jquery/)
 - [CSS Reference](https://cssreference.io/) - visual guide to every CSS property
 - [HTML Reference](https://htmlreference.io/) - visual guide to every HTML element
 - [DevDocs](https://devdocs.io/) - fast, offline-capable API documentation browser
@@ -278,32 +293,6 @@ _____________
 _____________
 
 
-**Responsive:**
-===
-- [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html)
-- [FitText.js](http://fittextjs.com/)
-- [Media Queries Patterns Library](http://mediaqueri.es/)
-- [PX to EM](http://pxtoem.com/)
-- [Utopia](https://utopia.fyi/) - fluid responsive type and space scale generator
-
-_____________
-
-
-**Code Hygiene:**
-===
-- [HTML Markup Validation (W3)](https://validator.w3.org/)
-- [CSS Validation (W3)](https://jigsaw.w3.org/css-validator/)
-- [Clean CSS](https://www.cleancss.com/)
-- [Procssor](http://tools.maxcdn.com/procssor/) - organize your CSS
-- [JavaScript Compressor](http://javascriptcompressor.com/)
-- [Prettier](https://prettier.io/) - opinionated code formatter for JS, CSS, HTML, and more
-- [ESLint](https://eslint.org/) - pluggable JavaScript and TypeScript linter
-
-
-_____________
-
-
-
 **Learning:**
 ===
 - [Treehouse](https://teamtreehouse.com/)
@@ -314,7 +303,7 @@ _____________
 - [Google UX Design Certificate](https://www.coursera.org/professional-certificates/google-ux-design) - beginner-friendly certificate program on Coursera
 - [Scrimba](https://scrimba.com/) - interactive front-end coding courses
 - [DesignCourse](https://www.youtube.com/@DesignCourse) - YouTube channel for UI/UX and front-end
-- [52 Weeks of UX](http://52weeksofux.com/)
+- [52 Weeks of UX](https://52weeksofux.com/)
 - [Hack Design](https://hackdesign.org/lessons)
 
 
@@ -322,23 +311,14 @@ _____________
 
 
 
-**Favicons:**
-===
-- [Favicon Generator - realfavicongenerator.net](https://realfavicongenerator.net/)
-- [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
-- [Favicon.io - generate favicons from text, image, or emoji](https://favicon.io/)
-
-_____________
-
-
 **Icons:**
 ===
 - [IconFinder](https://www.iconfinder.com/)
-- [IconArchive](http://www.iconarchive.com/)
+- [IconArchive](https://www.iconarchive.com/)
 - [IconMonstr](https://iconmonstr.com/)
 - [The Noun Project](https://thenounproject.com/)
 - [IcoMoon](https://icomoon.io/)
-- [Fontello](http://fontello.com/)
+- [Fontello](https://fontello.com/)
 - [Font Awesome](https://fontawesome.com/)
 - [Lucide](https://lucide.dev/) - beautiful, consistent open-source icons
 - [Phosphor Icons](https://phosphoricons.com/) - flexible icon family with six weights including duotone
@@ -346,6 +326,9 @@ _____________
 - [Tabler Icons](https://tabler.io/icons) - 5000+ free open-source SVG icons
 - [Feather Icons](https://feathericons.com/) - simply beautiful open-source icons
 - [Icônes](https://icones.js.org/) - fast browser across multiple open-source icon sets
+- [Favicon Generator - realfavicongenerator.net](https://realfavicongenerator.net/)
+- [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
+- [Favicon.io - generate favicons from text, image, or emoji](https://favicon.io/)
 
 
 _____________
@@ -356,8 +339,7 @@ _____________
 - [Unsplash](https://unsplash.com/) - free stock photos
 - [Pexels](https://www.pexels.com/) - free stock photos and videos
 - [Pixabay](https://pixabay.com/) - free images, videos, illustrations, and vectors
-- [Compfight](http://www.compfight.com/)
-- [Morgue File](http://morguefile.com/)
+- [Morgue File](https://morguefile.com/)
 - [Public Domain Archive](https://publicdomainarchive.com/)
 - [PicJumbo](https://picjumbo.com/)
 - [Getty Images](https://www.gettyimages.com/)
@@ -384,11 +366,11 @@ _____________
 - [Canva](https://www.canva.com/) - easy to use design templates for just about anything
 - [Designmodo](https://designmodo.com/freebies/) - UI components and design freebies
 - [SmashingMagazine](https://www.smashingmagazine.com/tag/freebies/) - freebies, templates, and design resources
-- [Freebbble](http://freebbble.com/) - Dribbble design freebies
+- [Freebbble](https://freebbble.com/) - Dribbble design freebies
 - [Freepik](https://www.freepik.com/) - free vectors, mockups, illustrations, and PSDs
 - [Checklist Design](https://www.checklist.design/) - best UX and UI design practice checklists
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) - curated list by Brad Traversy
 - [Hack Design](https://hackdesign.org/lessons)
-- [52 Weeks of UX](http://52weeksofux.com/)
+- [52 Weeks of UX](https://52weeksofux.com/)
 
 _____________
