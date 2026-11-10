@@ -3,10 +3,10 @@ A working list of design resources. Started from [Won J. You's bookmarks](https:
 
 **Search:**
 ===
-- [Google](https://www.google.com/)
-- [Perplexity AI - AI-powered search for technical and design questions](https://www.perplexity.ai/)
-- [vidIQ - YouTube keyword and channel research](https://vidiq.com/)
-- [AnswerThePublic - search questions and keyword research](https://answerthepublic.com/)
+- [Google](https://www.google.com/) - the first search, still the fastest
+- [Perplexity AI](https://www.perplexity.ai/) - AI search for technical and design questions
+- [vidIQ](https://vidiq.com/) - YouTube keyword and channel research
+- [AnswerThePublic](https://answerthepublic.com/) - the questions people actually search for
 
 _____________
 
@@ -101,7 +101,7 @@ _____________
 **Extensions:**
 ===
 - [Muzli](https://muz.li/) - a new tab full of design work
-- [WhatFont - identify any font used on a webpage](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - name any font on a webpage with one click
 
 _____________
 
@@ -157,14 +157,14 @@ _____________
 - [Accessible Palette](https://accessiblepalette.com/) - color ramps that hold a contrast ratio
 - [Huemint](https://huemint.com/) - generated palettes for brand and screen
 - [Reasonable Colors](https://reasonable.work/colors/) - ramps made so text stays readable
-- [Color Contrast Checker](https://coolors.co/contrast-checker)
+- [Color Contrast Checker](https://coolors.co/contrast-checker) - two colors, one ratio, checked against WCAG
 
 _____________
 
 
 **Brand:**
 ===
-- [Style Tiles](https://styletil.es/)
+- [Style Tiles](https://styletil.es/) - agree on type, color and texture before full layouts
 - [Brand New](https://www.underconsideration.com/brandnew/) - opinions on logos, identity, and branding
 - [Standards Manual](https://standardsmanual.com/) - reprints of classic identity standards
 - [Logo Archive](https://www.logo-archive.org/) - curated historical logos
@@ -216,8 +216,8 @@ _____________
 
 **Logos:**
 ===
-- [Logo Lounge](https://logolounge.com/)
-- [Logopond](https://logopond.com/)
+- [LogoLounge](https://logolounge.com/) - a searchable library of professional logo work
+- [Logopond](https://logopond.com/) - a community showcase of marks and identities
 - [Logobook](https://logobook.com/) - a small shelf of logo work
 - [Pentagram](https://www.pentagram.com/) - identity and brand work from an independent design studio
 - [Wolff Olins](https://www.wolffolins.com/) - global brand consultancy and identity work
@@ -246,8 +246,8 @@ _____________
 
 **Learning:**
 ===
-- [LinkedIn Learning](https://www.linkedin.com/learning/)
-- [Hack Design](https://hackdesign.org/lessons)
+- [LinkedIn Learning](https://www.linkedin.com/learning/) - video courses on software, design and business
+- [Hack Design](https://hackdesign.org/lessons) - free design lessons written by working designers
 - [Design Better Podcast](https://designbetterpodcast.com/) - podcast on the craft and career of design
 
 _____________
@@ -264,21 +264,21 @@ _____________
 
 **Icons:**
 ===
-- [IconFinder](https://www.iconfinder.com/)
-- [IconArchive](https://www.iconarchive.com/)
-- [IconMonstr](https://iconmonstr.com/)
-- [The Noun Project](https://thenounproject.com/)
-- [IcoMoon](https://icomoon.io/)
-- [Fontello](https://fontello.com/)
-- [Font Awesome](https://fontawesome.com/)
+- [Iconfinder](https://www.iconfinder.com/) - free and paid icons, searchable by style
+- [IconArchive](https://www.iconarchive.com/) - a deep archive of app and desktop icons
+- [iconmonstr](https://iconmonstr.com/) - free, simple icons in one consistent style
+- [The Noun Project](https://thenounproject.com/) - an icon for almost any idea, with clear credit terms
+- [IcoMoon](https://icomoon.io/) - build a custom icon font or SVG sprite
+- [Fontello](https://fontello.com/) - pick icons from open sets and bundle them as a web font
+- [Font Awesome](https://fontawesome.com/) - the long-standing web icon set
 - [Lucide](https://lucide.dev/) - line icons with one even stroke
 - [Phosphor Icons](https://phosphoricons.com/) - the same symbol, redrawn at every weight
 - [Heroicons](https://heroicons.com/) - interface icons drawn for Tailwind
 - [Tabler Icons](https://tabler.io/icons) - a wide free set of interface icons
 - [Feather Icons](https://feathericons.com/) - spare line icons, nothing decorative
 - [Icônes](https://icones.js.org/) - hunt an icon without opening five sites
-- [Favicon Generator - realfavicongenerator.net](https://realfavicongenerator.net/)
-- [Favicon.io - generate favicons from text, image, or emoji](https://favicon.io/)
+- [RealFaviconGenerator](https://realfavicongenerator.net/) - every favicon size, plus the code to declare them
+- [Favicon.io](https://favicon.io/) - favicons from text, an image or an emoji
 - [Visualize Value](https://visualizevalue.com/) - ideas made visible, including wallpapers and essays
 
 _____________
@@ -289,10 +289,10 @@ _____________
 - [Unsplash](https://unsplash.com/) - free photographs, widely used
 - [Pexels](https://www.pexels.com/) - free photographs and video clips
 - [Pixabay](https://pixabay.com/) - a mixed drawer of pictures and drawings
-- [Public Domain Archive](https://publicdomainarchive.com/)
-- [PicJumbo](https://picjumbo.com/)
-- [Getty Images](https://www.gettyimages.com/)
-- [Lummis](https://www.lummi.ai/) - pictures from cameras and from models
+- [Public Domain Archive](https://publicdomainarchive.com/) - free photographs, no attribution needed
+- [Picjumbo](https://picjumbo.com/) - free stock photos, mostly lifestyle and work scenes
+- [Getty Images](https://www.gettyimages.com/) - licensed editorial and commercial photography
+- [Lummi](https://www.lummi.ai/) - pictures from cameras and from models
 
 _____________
 
@@ -303,6 +303,5 @@ _____________
 - [Freebbble](https://freebbble.com/) - free design files from Dribbble posts
 - [Freepik](https://www.freepik.com/) - artwork and mockups ready to download
 - [Lipsum](https://lipsum.com/) - filler text for when copy is late
-- [Hack Design](https://hackdesign.org/lessons)
 
 _____________
