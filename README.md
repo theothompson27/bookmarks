@@ -46,7 +46,7 @@ _____________
 - [Magic Patterns](https://www.magicpatterns.com/) - UI options generated for a system
 - [Uizard](https://uizard.io/) - mockups from a sentence or a sketch
 - [UXPilot](https://uxpilot.ai/) - wireframes and screens from a prompt
-- [Galileo AI](https://www.usegalileo.ai/) - interface layouts from a text prompt
+- [Stitch (formerly Galileo AI)](https://stitch.withgoogle.com/) - interface layouts from a text prompt
 - [Grok Bots](https://docs.x.ai/grok-bot/overview) - AI teammates that take on work in your tools
 - [Claude](https://claude.ai/) - Anthropic's conversational AI
 - [ChatGPT](https://chatgpt.com/) - OpenAI's conversational AI
